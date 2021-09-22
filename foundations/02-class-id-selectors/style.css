@@ -1,0 +1,19 @@
+.pink {
+  background-color: #ffa7a7;
+  font-family: Verdana, sans-serif;
+}
+
+#blue-text {
+  font-size: 36px;
+  color: #050aff;
+}
+
+.pink.pink-font-size {
+  font-size: 24px;
+}
+
+#green {
+  background-color: #80ff80;
+  font-size: 24px;
+  font-weight: bold;
+}
