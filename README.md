@@ -15,8 +15,8 @@ These exercises are a series of css related tasks intended to complement the HTM
 
 2. Margin and Padding:
 
-- margin-and-padding-1 [ ]
-- margin-and-padding-2 [ ]
+- margin-and-padding-1 [✅]
+- margin-and-padding-2 [✅]
 
 3. Flex:
 
