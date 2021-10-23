@@ -20,10 +20,10 @@ These exercises are a series of css related tasks intended to complement the HTM
 
 3. Flex:
 
-- 01-flex-center [ ]
-- 02-flex-header [ ]
-- 03-flex-header-2 [ ]
-- 04-flex-information [ ]
-- 05-flex-modal [ ]
-- 06-flex-layout [ ]
-- 07-flex-layout-2 [ ]
+- 01-flex-center [✅]
+- 02-flex-header [✅]
+- 03-flex-header-2 [✅]
+- 04-flex-information [✅]
+- 05-flex-modal [✅]
+- 06-flex-layout [✅]
+- 07-flex-layout-2 [✅]
